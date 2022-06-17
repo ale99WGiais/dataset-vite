@@ -1,4 +1,4 @@
 pandas
 xlrd
-python-sat[pblib,aiger]
 pulp
+openpyxl
